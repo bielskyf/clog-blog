@@ -1,0 +1,6 @@
+@clog_api_HostAddress = http://localhost:5217
+
+GET {{clog_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
