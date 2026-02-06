@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36811.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clog-api", "clog-api\clog-api.csproj", "{B23DA80E-A2A0-412B-A619-AC026D25CAAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clog-api", "clog-api\clog-api.csproj", "{33837D27-5D4F-4067-9BE1-33327721188E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B23DA80E-A2A0-412B-A619-AC026D25CAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B23DA80E-A2A0-412B-A619-AC026D25CAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B23DA80E-A2A0-412B-A619-AC026D25CAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B23DA80E-A2A0-412B-A619-AC026D25CAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33837D27-5D4F-4067-9BE1-33327721188E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33837D27-5D4F-4067-9BE1-33327721188E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33837D27-5D4F-4067-9BE1-33327721188E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33837D27-5D4F-4067-9BE1-33327721188E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {296B5D6B-7D01-4F59-9156-F8BA12225D55}
+		SolutionGuid = {728C1988-E73E-4001-AA7B-0664EC7ED5A9}
 	EndGlobalSection
 EndGlobal

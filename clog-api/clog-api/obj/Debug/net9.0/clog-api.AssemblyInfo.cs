@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clog-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b10c1fb40537bb2051ab59707e99f5305c5b7b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d69a37612af8c5ce03001a4bfe7ed8fd1df2f1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("clog-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clog-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
