@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "y50PZzrgSCE=",
+  "dgSpecHash": "4iGsbLE8h8s=",
   "success": true,
   "projectFilePath": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\clog-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.12\\microsoft.entityframeworkcore.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.12\\microsoft.entityframeworkcore.abstractions.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.12\\microsoft.entityframeworkcore.analyzers.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.12\\microsoft.extensions.caching.abstractions.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.12\\microsoft.extensions.caching.memory.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.12\\microsoft.extensions.dependencyinjection.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.12\\microsoft.extensions.dependencyinjection.abstractions.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.logging\\9.0.12\\microsoft.extensions.logging.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.12\\microsoft.extensions.logging.abstractions.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.options\\9.0.12\\microsoft.extensions.options.9.0.12.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.12\\microsoft.extensions.primitives.9.0.12.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\scalar.aspnetcore\\2.12.36\\scalar.aspnetcore.2.12.36.nupkg.sha512"
   ],

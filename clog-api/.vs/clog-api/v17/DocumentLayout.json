@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projetos\\clog-blog\\clog-api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|d:\\projetos\\clog-blog\\clog-api\\clog-api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|solutionrelative:clog-api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|d:\\projetos\\clog-blog\\clog-api\\clog-api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|solutionrelative:clog-api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|d:\\projetos\\clog-blog\\clog-api\\clog-api\\models\\nicho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|solutionrelative:clog-api\\models\\nicho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|d:\\projetos\\clog-blog\\clog-api\\clog-api\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|solutionrelative:clog-api\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|d:\\projetos\\clog-blog\\clog-api\\clog-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33837D27-5D4F-4067-9BE1-33327721188E}|clog-api\\clog-api.csproj|solutionrelative:clog-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Nicho.cs",
-              "DocumentMoniker": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Nicho.cs",
-              "RelativeDocumentMoniker": "clog-api\\Models\\Nicho.cs",
-              "ToolTip": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Nicho.cs",
-              "RelativeToolTip": "clog-api\\Models\\Nicho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T00:40:27.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Comentario.cs",
-              "DocumentMoniker": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Comentario.cs",
-              "RelativeDocumentMoniker": "clog-api\\Models\\Comentario.cs",
-              "ToolTip": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Comentario.cs",
-              "RelativeToolTip": "clog-api\\Models\\Comentario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T00:39:33.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "clog-api\\Models\\Post.cs",
-              "ToolTip": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Post.cs",
-              "RelativeToolTip": "clog-api\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T00:38:06.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "clog-api\\Models\\Usuario.cs",
-              "ToolTip": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Models\\Usuario.cs",
-              "RelativeToolTip": "clog-api\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T00:25:26.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Program.cs",
-              "RelativeDocumentMoniker": "clog-api\\Program.cs",
-              "ToolTip": "D:\\Projetos\\clog-blog\\clog-api\\clog-api\\Program.cs",
-              "RelativeToolTip": "clog-api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T15:27:54.371Z",
-              "EditorCaption": ""
             }
           ]
         }

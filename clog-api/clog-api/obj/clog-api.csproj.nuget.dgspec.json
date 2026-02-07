@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[9.0.11, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.12, )"
+            },
             "Scalar.AspNetCore": {
               "target": "Package",
               "version": "[2.12.36, )"

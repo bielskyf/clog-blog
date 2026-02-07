@@ -1,3 +1,6 @@
+using clog_api.Infrastructure.Database;
+using clog_api.Infrastructure.Repository;
+using clog_api.Infrastructure.Repository.Interfaces;
 using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +10,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+builder.Services.AddScoped<IComentarioRepository, ComentarioRepository>();
+builder.Services.AddScoped<INichoRepository, NichoRepository>();
+builder.Services.AddScoped<IPostRepository, PostRepository>();
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
 
 var app = builder.Build();
 
