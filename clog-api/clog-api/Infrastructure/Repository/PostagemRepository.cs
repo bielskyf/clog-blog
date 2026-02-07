@@ -3,11 +3,11 @@ using clog_api.Infrastructure.Repository.Interfaces;
 
 namespace clog_api.Infrastructure.Repository
 {
-    public class PostRepository : IPostRepository
+    public class PostagemRepository : IPostagemRepository
     {
         private readonly ApiDbContext _context;
 
-        public PostRepository(ApiDbContext context)
+        public PostagemRepository(ApiDbContext context)
         {
             _context = context;
         }

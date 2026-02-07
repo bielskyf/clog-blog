@@ -15,7 +15,7 @@ namespace clog_api.Infrastructure.Database
 
         public DbSet<Comentario> Comentarios { get; set; }
         public DbSet<Nicho> Nichos { get; set; }
-        public DbSet<Post> Posts { get; set; }
+        public DbSet<Postagem> Postagens { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
     }
 }

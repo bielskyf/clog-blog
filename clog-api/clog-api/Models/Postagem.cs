@@ -1,6 +1,6 @@
 ﻿namespace clog_api.Models
 {
-    public class Post
+    public class Postagem
     {
         public int Id { get; private set; }
         public string Titulo { get; private set; }

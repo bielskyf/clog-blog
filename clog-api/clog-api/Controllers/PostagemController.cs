@@ -5,7 +5,7 @@ namespace clog_api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PostController : ControllerBase
+    public class PostagemController : ControllerBase
     {
     }
 }
